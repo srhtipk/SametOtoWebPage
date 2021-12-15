@@ -2,5 +2,5 @@
 
 Temel HTML-CSS-JS kullanarak hazırladığım projedir.
 
-Bootstrap benzeri yapı kullanmak yerine responsive özelliğini media query'ler kullanarak sağladım.
+Deneme ve öğrenme amaçlı Bootstrap benzeri yapı kullanmak yerine responsive özelliğini media query'ler kullanarak sağladım.
 
